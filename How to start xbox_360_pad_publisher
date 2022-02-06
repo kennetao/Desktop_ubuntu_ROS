@@ -1,5 +1,5 @@
 sudo su
-enter pwd --> 'Peanlhus5412'
+enter pwd --> '**********'
 cd into catkin_ws
 source devel/setup.bash
 rosrun xbox_360_pad xbox_360_pad_publisher.py
